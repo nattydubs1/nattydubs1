@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Natasha 
 - 👀  
 - 🌱 
-- 💞️ -i3wm, Sway, and Hyprland
-- 💞️ -I use Arch btw.
-- 💞️ -Neovim (my editor of choice)
+- 💞️ - i3wm, Sway, and Hyprland
+- 💞️ - I use Arch btw.
+- 💞️ - Neovim is my editor of choice
 -  
--    -Rooting Android operating systems, Flashing custom ROMS on via CLI (Fastboot and ADB) is where my love for Linux started.
+- 💞️ - Rooting Android operating systems, Flashing custom ROMS on via CLI (Fastboot and ADB) is where my love for Linux started.
 -    
 - 📫 How to reach me...
 
