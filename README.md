@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Natasha 
 - 👀  
 - 🌱 
+- 🛫 Currently traveling entire USA for unknown amount of time
+-
 - 💞️ - i3wm, Sway, and Hyprland
 - 💞️ - I use Arch btw.
 - 💞️ - Neovim is my editor of choice
