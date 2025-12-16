@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Natasha 
+- 👋 Hi, I’m Natasha 😘
 - 
-- 🌱 
+- 🍃 🌈 🤓
 - 
-- 🛫 Currently traveling the entire USA for an unknown amount of time ✌️
+- 🛫 Currently traveling the entire USA for an unknown amount of years ✌️
 -
-- 💞️ - i3wm, and Sway.
-- 💞️ - I use Arch btw.
-- 💞️ - Neovim is my editor of choice
+- 💞️ - i3WM, and SwayWM.
+- 💞️ - Arch Linux 
+- 💞️ - Neovim
 -  
 - 💞️ - Rooting Android operating systems back when we needed to root just to have USB tethering, Flashing custom ROMS via CLI (Fastboot and ADB) is where my love for Linux started. 
 -    
