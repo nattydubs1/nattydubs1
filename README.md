@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Natasha 😘
 - 
 - 🍃 🌈 🤓
+-
+- Currently studying for CompTia Linux+ 📚
 - 
 - 🛫 Currently traveling the entire USA for an unknown amount of years ✌️
 -
 - 💞️ - i3WM, and SwayWM.
-- 💞️ - Arch Linux/Debian stable
+- 💞️ - Arch Linux/Debian stable 🐸
 - 💞️ - Neovim
 -  
 - 💞️ - Rooting Android operating systems back when we needed to root just to have USB tethering, Flashing custom ROMS via CLI (Fastboot and ADB) is where my love for Linux started. 
