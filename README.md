@@ -26,7 +26,7 @@ Hardening systems via SSH configurations, firewalls, and SELinux.
 - **OS:** Fedora Sway Atomic 
 - **Editor:** Neovim
 - **Tools:** Bash, Git, Ansible, Terraform
-- **Shell:** Zsh + tmux 
+- **Shell:** Bash + tmux 
 
 Simplicity scales better than cleverness.
 
