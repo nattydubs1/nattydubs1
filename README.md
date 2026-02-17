@@ -1,40 +1,32 @@
-# 👋 Hi, I’m Natasha 😘
- 
-- 🍃 🌈 🤓
+SRE & Linux Enthusiast | Pursuing CompTIA Linux+
 
-### SRE & Linux Enthusiast | Pursuing CompTIA Linux+
+🐧 Current Focus: CompTIA Linux+ 
+I'm documenting my journey toward the latest CompTIA Linux+ certification.
+With 13 years of hands-on Linux experience.
+I treat my study labs like production infrastructure, because real-world reliability matters more than exam checkboxes.
 
----
+Key themes I'm exploring:
+- Containers as disposable, reproducible workspaces (Podman, Distrobox, OCI runtimes)
+- SRE fundamentals: failure domains, automated recovery, and resilience patterns
+- Treating documentation as a first-class feature
 
-### 🐧 Current Focus: CompTIA Linux+ 
+What I'm actively practicing right now:
+- System Administration: ACLs, LVM & advanced partitioning, kernel modules & tuning
+- Automation: Bash scripting and task orchestration
+- Security: System hardening (SSH configs, firewalld/nftables, SELinux in enforcing mode)
+- Containers: Rootless Podman, Distrobox for dev environments, and container workflows
 
-I am currently documenting my path to the XK0-006 certification. I use this space to treat my study labs as production infrastructure. Turning **13 years** of Linux experience into a modern certification.
+🧰 My Daily Toolkit
+- OS: Fedora Sway Atomic
+- Editor: Neovim 
+- Shell: Bash + tmux 
+- Version Control: Git
+- Philosophy: Simplicity scales better than cleverness.
 
-*   **Containers as "Disposable Workspaces"**
-
-*   **SRE Fundamentals:** focusing on failure domains and automated recovery.
+"Documentation is a feature, not an afterthought."
 
 
-**What I'm practicing right now:**
-*   **System Admin:** ACLs, LVM/Partitioning, and kernel modules.
-*   **Automation:** Bash scripting and basic task automation.
-*   **Security:** 
-Hardening systems via SSH configurations, firewalls, and SELinux.
-*   **Containers:** Exploring OCI-compliant runtimes like Podman and Distrobox.
-
-### 🧰 Tools
-- **OS:** Fedora Sway Atomic 
-- **Editor:** Neovim
-- **Tools:** Bash, Git, Ansible, Terraform
-- **Shell:** Bash + tmux 
-
-Simplicity scales better than cleverness.
-
-Documentation is a feature, not an afterthought (RTFM).
-
-    
-### 📫 How to reach me... Email in bio.
-
+                     "RTFM"
 
 
 <!---
