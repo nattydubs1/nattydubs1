@@ -26,8 +26,6 @@ What I'm actively practicing right now:
 "Documentation is a feature, not an afterthought."
 
 
-                     "RTFM"
-
 
 <!---
 Ndub40/Ndub40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
