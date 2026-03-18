@@ -23,12 +23,12 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 ---
 // "If the system denies permission, Just sudo rewrite the rules." //
 
-*Just a girl with a laptop. Nothing to see here.*
-
 ### How to reach me? Email link in bio
 
 > [!IMPORTANT]
 > To mitigate attack vectors, I do not open unsolicited attachments. Please send plain-text or links to reputable repositories only.
+
+ *Just a girl with a laptop. Nothing to see here.*
 
 
 <!---
