@@ -1,6 +1,6 @@
 # ⚡ Natasha | Atomic Architect & Linux+ Scholar ⚡
 
-![Trans Pride](https://img.shields.io)
+<img src="https://img.shields.io" alt="Trans Pride">
 
 > "Competence is the death of fear."
 
@@ -13,9 +13,13 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 - **Terminal:** Kitty + Dracula + Pragmatic Vim
 - **Environment:** Containerized Development (Distrobox/Podman)
 
-![Fedora](https://img.shields.io)
-![Linux](https://img.shields.io)
-![Vim](https://img.shields.io)
+<br />
+
+<img src="https://img.shields.io" alt="Fedora">
+<img src="https://img.shields.io" alt="Linux">
+<img src="https://img.shields.io" alt="Vim">
+
+<br />
 
 ### 📚 My Studies:
 - [ ] **CompTIA Linux+ (XK0-005)** - Chapter 2: Permissions & Ownership
@@ -23,13 +27,14 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 - [ ] **Advanced Shell Scripting**
 
 ### 🏗️ Projects
-- **[My-Atomic-Dots](https://github.com)**: My personal Fedora Sway Atomic configurations. 
+- **My-Atomic-Dots**: My personal Fedora Sway Atomic configurations. 
   - *Features: Automated Vault Kill-switches, Randomized Wi-Fi identities, and "Blind" Neovim Quarantines.*
 
 ---
 // "If the system denies permission, Just sudo rewrite the rules." //
 
 *Just a girl with a laptop. Nothing to see here.*
+
 
 
 
