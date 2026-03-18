@@ -25,6 +25,11 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 
 *Just a girl with a laptop. Nothing to see here.*
 
+### How to reach me? Email link in bio
+
+> [!IMPORTANT]
+> To mitigate attack vectors, I do not open unsolicited attachments. Please send plain-text or links to reputable repositories only.
+
 
 <!---
 Ndub40/Ndub40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
