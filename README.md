@@ -1,7 +1,5 @@
 # ⚡ Natasha | Atomic Architect & Linux+ Scholar ⚡
 
-<img src="https://img.shields.io" alt="Trans Pride">
-
 > "Competence is the death of fear."
 
 I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the USA. I build immutable, encrypted fortresses on **Fedora Atomic** to protect my identity and my data.
@@ -12,14 +10,6 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 - **Privacy:** Automated MAC Randomization & Flatpak Sandboxing
 - **Terminal:** Kitty + Dracula + Pragmatic Vim
 - **Environment:** Containerized Development (Distrobox/Podman)
-
-<br />
-
-<img src="https://img.shields.io" alt="Fedora">
-<img src="https://img.shields.io" alt="Linux">
-<img src="https://img.shields.io" alt="Vim">
-
-<br />
 
 ### 📚 My Studies:
 - [ ] **CompTIA Linux+ (XK0-005)** - Chapter 2: Permissions & Ownership
@@ -34,10 +24,6 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 // "If the system denies permission, Just sudo rewrite the rules." //
 
 *Just a girl with a laptop. Nothing to see here.*
-
-
-
-
 
 
 <!---
