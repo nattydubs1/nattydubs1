@@ -1,4 +1,4 @@
-# ⚡ Natasha | Atomic Architect & Linux+ Scholar ⚡
+#  Natasha  
 
 > "Competence is the death of fear."
 
