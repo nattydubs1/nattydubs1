@@ -8,7 +8,7 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 - **OS:** Fedora Sway Atomic (Immutable/Hardened)
 - **Security:** LUKS Native Encryption & VeraCrypt Vaults
 - **Privacy:** Automated MAC Randomization & Flatpak Sandboxing
-- **Terminal:** Kitty + Dracula + Pragmatic Vim
+- **Terminal:** Kitty + Gruvbox + Pragmatic Vim
 - **Environment:** Containerized Development (Distrobox/Podman)
 
 ### 📚 My Studies:
