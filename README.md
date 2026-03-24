@@ -21,7 +21,7 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
   - *Features: Automated Vault Kill-switches, Randomized Wi-Fi identities, and "Blind" Neovim Quarantines.*
 
 ---
-// "If the system denies permission, Just sudo rewrite the rules." //
+ *"If the system denies permission, Just sudo rewrite the rules."*
 
 ### How to reach me? Email link in bio
 
