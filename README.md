@@ -6,7 +6,7 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 
 ### 🛡️ Operating System Stack
 - **OS:** Fedora Sway Atomic (Immutable/Hardened)
-- **Security:** LUKS Native Encryption & VeraCrypt Vaults
+- **Security:** LUKS Native Encryption & and a Luks virtual hardrive where I keep personal items
 - **Privacy:** Automated MAC Randomization & Flatpak Sandboxing
 - **Terminal:** Ghostty + Gruvbox + Pragmatic Vim
 - **Environment:** Containerized Development (Distrobox/Podman)
