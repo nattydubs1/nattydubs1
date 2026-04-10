@@ -16,7 +16,7 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 - **Environment:** Containerized Development (Distrobox/Podman)
 
 ### 📚 My Studies:
-- [ ] **CompTIA Linux+ (XK0-005)** - Chapter 4: Networking & Firewalls
+- [ ] **CompTIA Linux+ (XK0-005)** - Chapter 7: Managing Files & Storage
 - [x] **Google Cybersecurity Professional**
 - [ ] **Advanced Shell Scripting**
 
