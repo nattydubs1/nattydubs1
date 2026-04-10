@@ -1,5 +1,9 @@
 #  Natasha  
 
+# Profile Parked
+
+> **Repositories removed.** After 13 years on this platform, I am moving my intellectual property to local, air-gapped storage in response to GitHub's shift toward non-consensual AI training. My code is my work, not your training data.
+
 > "Competence is the death of fear."
 
 I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the USA. I build immutable, encrypted fortresses on **Fedora Atomic** to protect my identity and my data.
