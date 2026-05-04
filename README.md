@@ -2,18 +2,11 @@
 
 # Profile Parked
 
-> **Repositories removed.** After 13 years on this platform, I am moving my intellectual property to local, air-gapped storage in response to GitHub's shift toward non-consensual AI training. My code is my work, not your training data.
+> **Repositories removed.** Locally hosting for now until I find something better
 
 > "Competence is the death of fear."
 
-I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the USA. I build immutable, encrypted fortresses on **Fedora Atomic** to protect my identity and my data.
-
-### 🛡️ Operating System Stack
-- **OS:** Fedora Sway Atomic (Immutable/Hardened)
-- **Security:** LUKS Native Encryption & and a Luks virtual hardrive where I keep personal items
-- **Privacy:** Automated MAC Randomization & Flatpak Sandboxing
-- **Terminal:** Ghostty + Gruvbox + Pragmatic Vim
-- **Environment:** Containerized Development (Distrobox/Podman)
+I am a **Digital Nomad** currently traveling the USA. 
 
 ### 📚 My Studies:
 - [ ] **Certified Kubernetes Administrator (CKA)**
@@ -21,10 +14,6 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 - [x] **CompTIA Linux+ (XK0-005)**
 - [x] **Google Cybersecurity Professional**
 - [x] **Advanced Shell Scripting**
-
-### 🏗️ Projects
-- **My-Atomic-Dots**: My personal Fedora Sway Atomic configurations. 
-  - *Features: Automated Vault Kill-switches, Randomized Wi-Fi identities, and "Blind" Neovim Quarantines.*
 
 ---
  *"If the system denies permission, Just sudo rewrite the rules."*
