@@ -16,9 +16,11 @@ I am a **Digital Nomad** and **Cybersecurity Student** currently traveling the U
 - **Environment:** Containerized Development (Distrobox/Podman)
 
 ### 📚 My Studies:
-- [ ] **CompTIA Linux+ (XK0-005)** - Chapter 7: Managing Files & Storage
+- [ ] **Certified Kubernetes Administrator (CKA)**
+- [ ] **AWS Certified DevOps Engineer - Professional**
+- [x] **CompTIA Linux+ (XK0-005)**
 - [x] **Google Cybersecurity Professional**
-- [ ] **Advanced Shell Scripting**
+- [x] **Advanced Shell Scripting**
 
 ### 🏗️ Projects
 - **My-Atomic-Dots**: My personal Fedora Sway Atomic configurations. 
